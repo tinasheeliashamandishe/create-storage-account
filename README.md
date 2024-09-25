@@ -1,7 +1,7 @@
 <h1>Azure Storage Account</h1>
 
 <h2>Description</h2>
-This lab will configure an Azure Storage account.<br /><br />
+This lab will configure an Azure Storage account and upload blobs to it.<br /><br />
 
 Azure Storage Accounts provide a scalable and secure way to store and manage data in the cloud. They support various storage types, including:
 <br /><br />
@@ -27,12 +27,12 @@ Azure Storage Accounts provide a scalable and secure way to store and manage dat
 
 <h4>Step 1</h4> 
 Create a Storage Account Resource.<br/>
-<img src="https://i.imgur.com/hlsO0PS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Sbujtmr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h4>Step 2</h4> 
 In your storage account, create a new container.<br/>
-<img src="https://i.imgur.com/TtmcQnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lZerAVY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h4>Step 3</h4> 
 Upload files in your container.<br/>
-<img src="https://i.imgur.com/HkfDJ4W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dBdDes3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
