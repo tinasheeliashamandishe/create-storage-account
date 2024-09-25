@@ -1,4 +1,4 @@
-<h1>Azure Private DNS</h1>
+<h1>Azure Storage Account</h1>
 
 <h2>Description</h2>
 This lab will configure an Azure Storage account.<br /><br />
